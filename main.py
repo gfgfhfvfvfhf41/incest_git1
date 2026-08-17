@@ -1,2 +1,1 @@
 print ("huii")
-ya eBal()
